@@ -1,4 +1,4 @@
-# Lawnak AI
+# Lawnak
 
 We're Lawnak, a startup focused on AI, especially local AI that runs on your own machine.
 
