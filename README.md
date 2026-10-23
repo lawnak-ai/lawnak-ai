@@ -1,16 +1,23 @@
-## Hi there 👋
+# Lawnak AI
 
-<!--
-**lawnak-ai/lawnak-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open-source tools for working with LLMs, written in Rust.
 
-Here are some ideas to get you started:
+أدوات مفتوحة المصدر للعمل مع النماذج اللغوية الكبيرة، مكتوبة بلغة Rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [LLM Fine-Tuning in Rust](https://github.com/lawnak-ai/LLM-Fine-Tuning-in-Rust)
+
+A small web app for fine-tuning open LLMs (Llama, Qwen, Mistral) on your own documents and Q&A data.
+It trains LoRA adapters on the CPU, an NVIDIA GPU or an Apple GPU, and exports GGUF or safetensors,
+so the result runs in llama.cpp, Ollama and LM Studio.
+
+تطبيق ويب لعمل ضبط دقيق (Fine-Tuning) للنماذج اللغوية المفتوحة على مستنداتك وبياناتك
+(PDF وWord وExcel وCSV وغيرها). يعمل على المعالج أو كرت الشاشة، ويصدّر النتيجة بصيغة GGUF
+لتعمل مباشرة في Ollama وLM Studio.
+
+**[Download for Windows, Linux and macOS](https://github.com/lawnak-ai/LLM-Fine-Tuning-in-Rust/releases/latest)**
+
+---
+
+Saudi Arabia · المملكة العربية السعودية
