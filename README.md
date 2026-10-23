@@ -16,6 +16,8 @@ so the result runs in llama.cpp, Ollama and LM Studio.
 (PDF وWord وExcel وCSV وغيرها). يعمل على المعالج أو كرت الشاشة، ويصدّر النتيجة بصيغة GGUF
 لتعمل مباشرة في Ollama وLM Studio.
 
+[![Training screen](https://raw.githubusercontent.com/lawnak-ai/LLM-Fine-Tuning-in-Rust/main/docs/train.png)](https://github.com/lawnak-ai/LLM-Fine-Tuning-in-Rust)
+
 **[Download for Windows, Linux and macOS](https://github.com/lawnak-ai/LLM-Fine-Tuning-in-Rust/releases/latest)**
 
 ---
